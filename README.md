@@ -36,8 +36,8 @@ Sitio web educativo sobre el Fútbol Club Barcelona creado como práctica de HTM
 ![Resultado RSS](img/rssvalidacion.png)
 
 ## Dificultades encontradas
-2. Validar correctamente las listas anidadas: Ajusté la etiqueta ul para que estuviera dentro del li correcto.
-3. Rutas relativas multimedia: Corregí el nombre de la carpeta de vídeo para que coincidiera exactamente en minúsculas.
+1. Validar correctamente las listas anidadas: Ajusté la etiqueta ul para que estuviera dentro del li correcto.
+2. Rutas relativas multimedia: Corregí el nombre de la carpeta de vídeo para que coincidiera exactamente en minúsculas.
 
 ## Decisiones técnicas
 - Formatos de imagen: Usé JPG para fotos, PNG para logos transparentes, y GIF para animaciones simples.
