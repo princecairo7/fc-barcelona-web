@@ -36,7 +36,6 @@ Sitio web educativo sobre el Fútbol Club Barcelona creado como práctica de HTM
 ![Resultado RSS](img/rssvalidacion.png)
 
 ## Dificultades encontradas
-1. Implementar el mapa de imágenes: Lo resolví leyendo documentación sobre las coordenadas shape.
 2. Validar correctamente las listas anidadas: Ajusté la etiqueta ul para que estuviera dentro del li correcto.
 3. Rutas relativas multimedia: Corregí el nombre de la carpeta de vídeo para que coincidiera exactamente en minúsculas.
 
