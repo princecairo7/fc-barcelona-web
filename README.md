@@ -3,10 +3,10 @@
 Sitio web educativo sobre el Fútbol Club Barcelona creado como práctica de HTML5.
 
 ## Autoría
-- Nombre y apellidos: [Tu Nombre]
-- Curso: Desarrollo Web
-- Módulo: LMSGI
-- Fecha: Noviembre 2026
+- Nombre y apellidos: [Cairo José Carvajal Pérez]
+- Curso: DAM 
+- Módulo: Lenguaje de marcas 
+- Fecha: 12/11/2026
 
 ## Sitio publicado
 - Web en GitHub Pages: [Abrir sitio](https://TU-USUARIO-GITHUB.github.io/fc-barcelona-web/)
@@ -29,11 +29,11 @@ Sitio web educativo sobre el Fútbol Club Barcelona creado como práctica de HTM
 
 ## Validación
 ### HTML
-![Resultado HTML](img/validacion-html.png)
+![Resultado HTML](img/Validaciondelhtml.png)
 ### CSS
-![Resultado CSS](img/validacion-css.png)
+![Resultado CSS](img/cssvalidacion.png)
 ### RSS
-![Resultado RSS](img/validacion-rss.png)
+![Resultado RSS](img/rssvalidacion.png)
 
 ## Dificultades encontradas
 1. Implementar el mapa de imágenes: Lo resolví leyendo documentación sobre las coordenadas shape.

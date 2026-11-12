@@ -2,27 +2,27 @@
 <rss version="2.0">
     <channel>
         <title>FC Barcelona Fan Web</title>
-        <link>https://TU-USUARIO-GITHUB.github.io/fc-barcelona-web/</link>
+        <link>https://princecairo7.github.io/fc-barcelona-web/</link>
         <description>Novedades, historia y palmarés del FC Barcelona.</description>
         <language>es</language>
         <item>
             <title>Historia del FC Barcelona</title>
-            <link>https://TU-USUARIO-GITHUB.github.io/fc-barcelona-web/blog.html</link>
-            <guid>https://TU-USUARIO-GITHUB.github.io/fc-barcelona-web/blog.html</guid>
+            <link>https://princecairo7.github.io/fc-barcelona-web/blog.html</link>
+            <guid>https://princecairo7.github.io/fc-barcelona-web/blog.html</guid>
             <pubDate>Mon, 02 Nov 2026 10:00:00 +0100</pubDate>
             <description>Conoce los orígenes y evolución del mejor club del mundo.</description>
         </item>
         <item>
             <title>Palmarés Oficial</title>
-            <link>https://TU-USUARIO-GITHUB.github.io/fc-barcelona-web/tabla.html</link>
-            <guid>https://TU-USUARIO-GITHUB.github.io/fc-barcelona-web/tabla.html</guid>
+            <link>https://princecairo7.github.io/fc-barcelona-web/tabla.html</link>
+            <guid>https://princecairo7.github.io/fc-barcelona-web/tabla.html</guid>
             <pubDate>Tue, 03 Nov 2026 10:00:00 +0100</pubDate>
             <description>Revisa la tabla completa con todas las copas y ligas.</description>
         </item>
         <item>
             <title>Galería Multimedia</title>
-            <link>https://TU-USUARIO-GITHUB.github.io/fc-barcelona-web/galeria.html</link>
-            <guid>https://TU-USUARIO-GITHUB.github.io/fc-barcelona-web/galeria.html</guid>
+            <link>https://princecairo7.github.io/fc-barcelona-web/galeria.html</link>
+            <guid>https://princecairo7.github.io/fc-barcelona-web/galeria.html</guid>
             <pubDate>Wed, 04 Nov 2026 10:00:00 +0100</pubDate>
             <description>Visita nuestra galería interactiva con fotos del estadio y vídeos de presentación.</description>
         </item>
