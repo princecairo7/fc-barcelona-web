@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hazte Socio - FC Barcelona Fan Web</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+    <header>
+        <img src="img/logoBarsa.png" alt="Logotipo del FC Barcelona" width="100" height="100">
+        <h1>Hazte Socio Culé</h1>
+    </header>
+    <nav>
+        <a href="index.html" title="Ir a la página principal">Inicio</a>
+        <a href="blog.html" title="Leer la historia del club">Historia</a>
+        <a href="tabla.html" title="Ver el palmarés del equipo">Palmarés</a>
+        <a href="galeria.html" title="Ver fotos y vídeos">Multimedia</a>
+        <a href="formulario.html" title="Hazte socio del club">Hazte Socio</a>
+    </nav>
+    <main>
+        <form name="registro" action="#" method="get">
+            <fieldset>
+                <legend>Datos Personales</legend>
+                
+                <label for="nombre">Nombre completo:</label>
+                <input type="text" id="nombre" name="nombre" placeholder="Ej: Lionel Pérez" required minlength="3" maxlength="50"><br><br>
+
+                <label for="email">Correo electrónico:</label>
+                <input type="email" id="email" name="email" required><br><br>
+
+                <label for="pass">Contraseña (para el área de socio):</label>
+                <input type="password" id="pass" name="pass" required pattern=".{6,}"><br><br>
+
+                <label for="nacimiento">Fecha de nacimiento:</label>
+                <input type="date" id="nacimiento" name="nacimiento" required min="1920-01-01" max="2010-01-01"><br><br>
+                
+                <label for="edad">Edad exacta:</label>
+                <input type="number" id="edad" name="edad" min="16" max="100" step="1" value="18">
+            </fieldset>
+
+            <fieldset>
+                <legend>Preferencias del Club</legend>
+
+                <p>¿Qué grada prefieres?</p>
+                <input type="radio" id="grada-norte" name="grada" value="norte" checked>
+                <label for="grada-norte">Gol Norte</label><br>
+                <input type="radio" id="grada-sur" name="grada" value="sur">
+                <label for="grada-sur">Gol Sur</label><br><br>
+
+                <label for="abono">Tipo de Abono:</label>
+                <select id="abono" name="abono">
+                    <option value="completo" selected>Temporada Completa</option>
+                    <option value="media">Media Temporada</option>
+                    <option value="champions">Solo Champions League</option>
+                </select><br><br>
+
+                <label for="entusiasmo">Nivel de entusiasmo (1 al 10):</label>
+                <input type="range" id="entusiasmo" name="entusiasmo" min="1" max="10"><br><br>
+
+                <input type="checkbox" id="boletin" name="boletin">
+                <label for="boletin">Deseo recibir la revista oficial del club</label>
+            </fieldset>
+
+            <fieldset>
+                <legend>Documentación y Comentarios</legend>
+
+                <label for="foto">Sube una foto para tu carnet:</label>
+                <input type="file" id="foto" name="foto" accept="image/png, image/jpeg"><br><br>
+
+                <label for="mensaje">¿Por qué quieres ser socio?</label><br>
+                <textarea id="mensaje" name="mensaje" rows="4" cols="50"></textarea><br><br>
+            </fieldset>
+
+            <button type="button">Verificar disponibilidad</button>
+            <input type="submit" value="Enviar Solicitud">
+            <input type="reset" value="Borrar Formulario">
+        </form>
+    </main>
+    <footer>
+        <address>Autor: Cairo José Carvajal Pérez | Curso: 1º Desarrollo de aplicaciones multiplataforma 2026</address>
+    </footer>
+</body>
+</html>
