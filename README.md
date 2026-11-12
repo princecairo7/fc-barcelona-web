@@ -3,14 +3,14 @@
 Sitio web educativo sobre el Fútbol Club Barcelona creado como práctica de HTML5.
 
 ## Autoría
-- Nombre y apellidos: [Cairo José Carvajal Pérez]
-- Curso: DAM 
+- Nombre y apellidos: Cairo José Carvajal Pérez
+- Curso: 1º DAM 
 - Módulo: Lenguaje de marcas 
 - Fecha: 12/11/2026
 
 ## Sitio publicado
-- Web en GitHub Pages: [Abrir sitio](https://TU-USUARIO-GITHUB.github.io/fc-barcelona-web/)
-- Repositorio: [Abrir repositorio](https://github.com/TU-USUARIO-GITHUB/fc-barcelona-web)
+- Web en GitHub Pages: [Abrir sitio](https://princecairo7.github.io/fc-barcelona-web/)
+- Repositorio: [Abrir repositorio](https://github.com/princecairo7/fc-barcelona-web)
 
 ## Estructura del proyecto
 - `index.html`: Portada con resúmenes.
